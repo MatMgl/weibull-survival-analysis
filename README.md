@@ -21,4 +21,4 @@ The entire analysis was conducted in R.
 ## Full Analysis
 
 The full implementation with code, results, and plots is available in the Jupyter Notebook:  
-📓 [`weibull_survival_analysis.ipynb`](weibull_survival_analysis.ipynb)
+📓 [Notebook](project_en.ipynb)
