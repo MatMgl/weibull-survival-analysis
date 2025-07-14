@@ -28,5 +28,5 @@ The full implementation with code, results, and plots is available in the Jupyte
 
 This project was prepared by:
 
-- *[Krzysztof Madej]*
-- *[Mateusz Mglej]*  
+- *Krzysztof Madej*
+- *Mateusz Mglej*  
