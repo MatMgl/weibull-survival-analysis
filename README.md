@@ -22,3 +22,11 @@ The entire analysis was conducted in R.
 
 The full implementation with code, results, and plots is available in the Jupyter Notebook:  
 📓 [Notebook](project_en.ipynb)
+
+
+## Authors
+
+This project was prepared by:
+
+- *[Krzysztof Madej]*
+- *[Mateusz Mglej]*  
